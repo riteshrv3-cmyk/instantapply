@@ -70,6 +70,7 @@ Instant Apply (working name): Tsenta's product experience, rebuilt for Indian fr
 | FR-18 | Caps: 10 applications per candidate per day; max per employer | Avoid spam scoring | 11th approve waits until next day |
 | FR-19 | Free 25 applications lifetime, then Rs 999/month plan (Indian payment gateway, picked in phase 2) | Pricing | Free user blocked at 25; paid user not |
 | FR-20 | Delete account and data; revoke Gmail | DPDP law | After delete, no candidate data remains |
+| FR-22 | Resume-only fallback: when the robot cannot apply to a job, give the tailored resume + cover note + "apply yourself" link, and track it when the candidate marks it applied | Every job gives value even where auto-apply fails | A job on an unsupported site shows tailored resume download and link; "I applied" updates tracker |
 | FR-21 | Admin dashboard: users, applies, success rate per ATS, failures, interview calls, paid users, cost per apply | Run the business, prove value | Numbers match database |
 
 ## Non-functional requirements
@@ -92,4 +93,4 @@ Instant Apply (working name): Tsenta's product experience, rebuilt for Indian fr
 - R7 (optional): Ritesh's own test apply on Tsenta to confirm the cloud apply flow.
 
 ## Approval
-APPROVED 2026-10-29 (Ritesh, in chat)
+APPROVED 2026-10-29 (Ritesh, in chat). FR-22 added and re-approved 2026-10-29.
