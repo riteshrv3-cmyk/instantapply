@@ -13,4 +13,4 @@ Last updated: 2026-10-30
 - None.
 
 ## Next step
-- Ritesh: create Firebase (Google sign-in) and Anthropic key, fill .env, try slice 1. Then PR to main and slice 2 (job feed).
+- PR #1 open (https://github.com/riteshrv3-cmyk/instantapply/pull/1). Ritesh: create Firebase (Google sign-in) and Anthropic key, fill .env, try slice 1 for real; then /code-review and merge PR #1; then slice 2 (job feed).
