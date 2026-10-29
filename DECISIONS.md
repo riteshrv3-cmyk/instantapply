@@ -19,3 +19,4 @@ Newest at the bottom. Format: date: decision (why).
 - 2026-10-29: Free 25 applications lifetime, paid Rs 999/month; proof = 20% get an interview call in 30 days; pilot 100 candidates found directly.
 - 2026-10-29: Hosting cheapest anywhere; budget set after a cost estimate; talent pool and college features not in v1.
 - 2026-10-29: Requirements v2 approved (docs/01-requirements.md). Phase 2 Planning starts.
+- 2026-10-29: Build without candidate/recruiter calls (Ritesh lived the problem). Fallback value: when auto-apply is not possible, give a tailored resume + "apply yourself" link. Needs FR-22 in requirements (re-approve).
