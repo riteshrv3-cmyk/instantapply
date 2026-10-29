@@ -17,7 +17,7 @@ Instant Apply (working name): Indian freshers in tech build a resume, get matche
 | Apply mode | Candidate approves each application before it is sent |
 | Pricing v1 | Free tier + paid plan |
 | Proved value | Interview calls |
-| Job sources | Decide after research (see open question Q1) |
+| Job sources | ATS portals + company career pages only (Q1 answered 2026-10-29) |
 | Repo | `C:\Users\asusv\Music\instantapply`, GitHub `riteshrv3-cmyk/instantapply` |
 
 ## Users
@@ -55,7 +55,6 @@ Instant Apply (working name): Indian freshers in tech build a resume, get matche
 - Fully automatic mode, experienced hires, non-tech roles, colleges/companies dashboards, other languages, native mobile apps.
 
 ## Open questions (need your answer before APPROVED)
-- **Q1 Sources:** research recommends ATS portals + company career pages only. OK?
 - **Q2 Free tier size and paid price:** for example 10 applies/month free, paid Rs X/month. Your numbers?
 - **Q3 Proof target:** for example "30% of active candidates get 1+ interview call within 30 days of first apply". Your numbers?
 - **Q4 Pilot size:** how many candidates in v1 (for example 50 or 100)?

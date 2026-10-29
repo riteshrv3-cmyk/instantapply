@@ -7,7 +7,7 @@ Last updated: 2026-10-29
 - Research done: docs/research/01-market-and-legal.md.
 
 ## Blockers
-- 5 open questions in docs/01-requirements.md (sources, free tier and price, proof target, pilot size, budget).
+- 4 open questions in docs/01-requirements.md (free tier and price, proof target, pilot size, budget). Q1 sources answered: ATS + career pages.
 
 ## Next step
 - Ritesh answers Q1 to Q5, reviews the draft, writes APPROVED with date. Then phase 2 (Planning).

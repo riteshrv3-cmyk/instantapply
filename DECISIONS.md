@@ -10,3 +10,4 @@ Newest at the bottom. Format: date: decision (why).
 - 2026-10-29: Pricing is free tier + paid plan; amounts open (prove value and test willingness to pay).
 - 2026-10-29: Proved value = interview calls; target number open.
 - 2026-10-29: Job sources decided after research; research recommends ATS + career pages only (pending Ritesh).
+- 2026-10-29: v1 applies only on ATS portals and company career pages; LinkedIn, Naukri, Indeed only as "apply yourself" links (ban risk HIGH on job boards).
