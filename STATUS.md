@@ -3,7 +3,7 @@
 Last updated: 2026-10-29
 
 ## Where we are
-- SDLC phase 1 (Requirements) APPROVED 2026-10-29. Phase 2 (Planning) next.
+- SDLC phase 1 APPROVED 2026-10-29 (FR-22 added). Phase 2 plan draft in docs/02-plan.md, waiting for APPROVED.
 - Research done: docs/research/01-market-and-legal.md, docs/research/02-tsenta-teardown.md (artifact: https://claude.ai/artifact/YGjkjjvvayBY8Ah1kjUawH).
 
 - Tools: Node 24.22.1; rea (reverse-engineering tool) set up for Claude Code 2026-10-29 (undo: `rea uninstall`).
@@ -13,4 +13,4 @@ Last updated: 2026-10-29
 - None.
 
 ## Next step
-- Phase 2 (Planning): research items R1 to R7 in docs/01-requirements.md.
+- Ritesh approves docs/02-plan.md and gives accounts/keys (open item O2). Then phase 3 Design.
