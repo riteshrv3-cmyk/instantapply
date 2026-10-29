@@ -1,4 +1,4 @@
-# 03 Design (DRAFT, not approved)
+# 03 Design (APPROVED 2026-10-30)
 
 Phase 3 of `00-process.md`. Input: `01-requirements.md` (FR-01 to FR-22), `02-plan.md` (APPROVED 2026-10-30), `research/02-tsenta-teardown.md`. Date 2026-10-30.
 
@@ -111,4 +111,4 @@ Proof metric: share of active users with at least 1 interview_detected within 30
 - Initial company list for job-fetcher (Indian tech hirers on Greenhouse / Lever / Ashby): build in slice 3.
 
 ## Approval
-Ritesh writes here: APPROVED (date) ____
+APPROVED 2026-10-30 (Ritesh, in chat)

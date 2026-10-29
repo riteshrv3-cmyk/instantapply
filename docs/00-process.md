@@ -29,8 +29,8 @@ Reused from Place.ai (chosen 2026-10-22). Started for Instant Apply 2026-10-29.
 |---|---|---|
 | 1 Requirements | Approved | 2026-10-29 |
 | 2 Planning | Approved | 2026-10-30 |
-| 3 Design | In progress | |
-| 4 Development | Not started | |
+| 3 Design | Approved | 2026-10-30 |
+| 4 Development | In progress | |
 | 5 Testing | Not started | |
 | 6 Deployment | Not started | |
 | 7 Maintenance | Not started | |
