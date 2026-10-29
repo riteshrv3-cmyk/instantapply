@@ -3,14 +3,14 @@
 Last updated: 2026-10-29
 
 ## Where we are
-- SDLC phase 1 (Requirements): draft v2 ready (20 MCQs answered 2026-10-29), not approved.
+- SDLC phase 1 (Requirements) APPROVED 2026-10-29. Phase 2 (Planning) next.
 - Research done: docs/research/01-market-and-legal.md, docs/research/02-tsenta-teardown.md (artifact: https://claude.ai/artifact/YGjkjjvvayBY8Ah1kjUawH).
 
 - Tools: Node 24.22.1; rea (reverse-engineering tool) set up for Claude Code 2026-10-29 (undo: `rea uninstall`).
 - Tsenta teardown done 2026-10-29. Corrects 01: Tsenta applies from the cloud (not on-device) and prices are $19/$39/$99 a month. Optional open item: Ritesh does 1-2 test applies on his own account to confirm the apply flow.
 
 ## Blockers
-- None. Requirements draft v2 waits for APPROVED.
+- None.
 
 ## Next step
-- Ritesh reviews docs/01-requirements.md v2 and writes APPROVED with date. Then phase 2 (Planning): research items R1 to R7.
+- Phase 2 (Planning): research items R1 to R7 in docs/01-requirements.md.

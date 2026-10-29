@@ -27,8 +27,8 @@ Reused from Place.ai (chosen 2026-10-22). Started for Instant Apply 2026-10-29.
 
 | Phase | Status | Approved on |
 |---|---|---|
-| 1 Requirements | Draft ready for review | |
-| 2 Planning | Not started | |
+| 1 Requirements | Approved | 2026-10-29 |
+| 2 Planning | In progress | |
 | 3 Design | Not started | |
 | 4 Development | Not started | |
 | 5 Testing | Not started | |

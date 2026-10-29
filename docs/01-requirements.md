@@ -1,4 +1,4 @@
-# 01 Requirements (DRAFT v2, not approved)
+# 01 Requirements (v2, APPROVED 2026-10-29)
 
 Phase 1 of `00-process.md`. Answers WHAT and WHY. Draft v2 2026-10-29 after 20 MCQs. Based on `research/02-tsenta-teardown.md`.
 
@@ -92,4 +92,4 @@ Instant Apply (working name): Tsenta's product experience, rebuilt for Indian fr
 - R7 (optional): Ritesh's own test apply on Tsenta to confirm the cloud apply flow.
 
 ## Approval
-Ritesh writes here: APPROVED (date) ____
+APPROVED 2026-10-29 (Ritesh, in chat)
