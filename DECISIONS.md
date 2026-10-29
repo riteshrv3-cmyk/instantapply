@@ -22,3 +22,4 @@ Newest at the bottom. Format: date: decision (why).
 - 2026-10-29: Build without candidate/recruiter calls (Ritesh lived the problem). Fallback value: when auto-apply is not possible, give a tailored resume + "apply yourself" link. Needs FR-22 in requirements (re-approve).
 - 2026-10-29: FR-22 (resume-only fallback) added to requirements and approved; phase 2 Planning started.
 - 2026-10-29: Copy Tsenta product and stack (Next.js/Vercel, Firebase Auth, Fly.io + Postgres, Cloudflare, Claude, SigNoz, Dodo Payments if it fits India). Own code only; no Tsenta code, text, prompts or decompiled parts. Do not reuse Place.ai plan.
+- 2026-10-30: Phase 2 plan approved (docs/02-plan.md). Phase 3 Design starts.

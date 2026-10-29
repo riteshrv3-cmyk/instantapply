@@ -1,4 +1,4 @@
-# 02 Plan (DRAFT, not approved)
+# 02 Plan (APPROVED 2026-10-30)
 
 Phase 2 of `00-process.md`. Input: `01-requirements.md` (APPROVED 2026-10-29, FR-22 added). Date 2026-10-29.
 
@@ -57,4 +57,4 @@ Cost per application is measured in the first build slices, then the monthly bud
 - O3: Product name and domain (Instant Apply is a working name).
 
 ## Approval
-Ritesh writes here: APPROVED (date) ____
+APPROVED 2026-10-30 (Ritesh, in chat)

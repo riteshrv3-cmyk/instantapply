@@ -1,9 +1,9 @@
 # Status
 
-Last updated: 2026-10-29
+Last updated: 2026-10-30
 
 ## Where we are
-- SDLC phase 1 APPROVED 2026-10-29 (FR-22 added). Phase 2 plan draft in docs/02-plan.md, waiting for APPROVED.
+- SDLC phases 1 and 2 APPROVED (2026-10-29, 2026-10-30). Phase 3 Design next.
 - Research done: docs/research/01-market-and-legal.md, docs/research/02-tsenta-teardown.md (artifact: https://claude.ai/artifact/YGjkjjvvayBY8Ah1kjUawH).
 
 - Tools: Node 24.22.1; rea (reverse-engineering tool) set up for Claude Code 2026-10-29 (undo: `rea uninstall`).
