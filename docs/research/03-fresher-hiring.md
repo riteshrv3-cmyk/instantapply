@@ -2,7 +2,7 @@
 
 Date: 2026-10-29. Done by 3 Haiku research agents (desk research, public pages only, no logins, no scraping). Labels: **Fact** = stated on a linked source. **Guess** = reading of evidence. **Uncertain** = not found or sources conflict.
 
-Bottom line: **No source gives the share of fresher tech jobs per channel, or the share of fresher jobs on ATS portals.** Desk research cannot answer challenge 1 (see `docs/...` challenge list). The 10 candidate calls and 3 recruiter calls are needed.
+Bottom line: **No source gives the share of fresher tech jobs per channel, or the share of fresher jobs on ATS portals.** Desk research cannot answer the main risk (whether fresher jobs sit on portals our robot can reach). The 10 candidate calls and 3 recruiter calls are needed.
 
 ## 1. Where fresher tech jobs get posted (R1a)
 
@@ -21,7 +21,7 @@ Meaning (guess): most fresher tech hiring runs through campus drives and company
 
 ## 2. Which hiring software (ATS) Indian companies use (R1b)
 
-Status: **R1b agent did not report yet** (see the second half below, to add when it finishes). The table below is from the first-round agent.
+Source: R1b agent (4 pages read, 14 searches). No market-share data found for any vendor.
 
 | ATS | Indian users found | Public job list page? | Account per company? | Confidence |
 |---|---|---|---|---|
