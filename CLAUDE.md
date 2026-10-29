@@ -13,4 +13,5 @@ B2C platform for Indian fresher tech job seekers: builds a resume, finds matchin
 - Nothing is sent to an employer without the candidate's Approve.
 
 ## Commands
-- None yet. Build, test and seed commands are added in phase 4.
+- `pnpm install`, then `pnpm dev` (http://localhost:3000). `pnpm test` runs tests, `pnpm typecheck` checks types.
+- Local testing without keys: `DEV_LOGIN=1` in `.env` shows a "Dev login" button. Sample data: fake resumes in `tests/fixtures.ts`.
